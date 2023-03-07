@@ -1,6 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/PnUatAYWMEMvmiwsyx/giphy.gif" width="500"/>
-</div>
 <div id="badges" align='center'>
   <a href="https://www.linkedin.com/in/andrewhein157/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -42,7 +39,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Heinz157&theme=dark&hide_border=true)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Heinz157)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Heinz157&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Heinz157/Heinz157** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
