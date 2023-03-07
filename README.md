@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzk2ZjJiNzU4ZGU3YjBlNzM3ZWIwMTg0OGZiMzhmZTllOGViMDAxNiZjdD1n/rMS1sUPhv95f2/giphy.gif" width="100"/>
+  <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzk2ZjJiNzU4ZGU3YjBlNzM3ZWIwMTg0OGZiMzhmZTllOGViMDAxNiZjdD1n/rMS1sUPhv95f2/giphy.gif](https://media.giphy.com/media/PnUatAYWMEMvmiwsyx/giphy.gif)" width="300"/>
 </div>
 <div id="badges">
   <a href="https://www.linkedin.com/in/andrewhein157/">
@@ -21,7 +21,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I solve problems on codewars and am a judge for awwwards.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andrewhein157/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-andrewhein157-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andrewhein157/)
 
 ### :hammer_and_wrench: Languages and Tools I use:
 
@@ -41,7 +41,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </div>
 
 ### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=Heinz157
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Heinz157&theme=dark&hide_border=true)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Heinz157)](https://github.com/anuraghazra/github-readme-stats)
 
