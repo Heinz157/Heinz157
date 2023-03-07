@@ -1,7 +1,7 @@
 <div id="header" align="center">
-  <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzk2ZjJiNzU4ZGU3YjBlNzM3ZWIwMTg0OGZiMzhmZTllOGViMDAxNiZjdD1n/rMS1sUPhv95f2/giphy.gif](https://media.giphy.com/media/PnUatAYWMEMvmiwsyx/giphy.gif)" width="300"/>
+  <img src="https://media.giphy.com/media/PnUatAYWMEMvmiwsyx/giphy.gif" width="100"/>
 </div>
-<div id="badges">
+<div id="badges" align='center'>
   <a href="https://www.linkedin.com/in/andrewhein157/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
